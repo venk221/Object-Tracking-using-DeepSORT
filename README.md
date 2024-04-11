@@ -11,7 +11,7 @@ See the [arXiv preprint](https://arxiv.org/abs/1703.07402) for more information.
 
 The output tracking video looks like this:
 
-![Object tracking using DeepSORT]([https://drive.google.com/file/d/11UUnhzm3VV8xMgYuS4iSV_1QkgnEVwYh/view?usp=sharing])
+![Object tracking using DeepSORT](https://drive.google.com/file/d/11UUnhzm3VV8xMgYuS4iSV_1QkgnEVwYh/view?usp=sharin)
 
 
 ## Dependencies
