@@ -7,6 +7,13 @@ We extend the original [SORT](https://github.com/abewley/sort) algorithm to
 integrate appearance information based on a deep appearance descriptor.
 See the [arXiv preprint](https://arxiv.org/abs/1703.07402) for more information.
 
+## Output Video
+
+The output tracking video looks like this:
+
+![Object tracking using DeepSORT]([https://example.com/yourgif.gif](https://drive.google.com/file/d/11UUnhzm3VV8xMgYuS4iSV_1QkgnEVwYh/view?usp=sharing))
+
+
 ## Dependencies
 
 The code is compatible with Python 2.7 and 3. The following dependencies are
